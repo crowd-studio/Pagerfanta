@@ -1,5 +1,5 @@
 {
-    "name": "crowd-studio/pagerfanta",
+    "name": "pagerfanta/pagerfanta",
     "description": "Pagination for PHP 5.3",
     "keywords": ["page","paging", "paginator", "pagination"],
     "type": "library",
